@@ -101,7 +101,7 @@ According to the anlysis, customers purchase most frequently every 3 months.
 ### The Dashboard 
 ![](Customer_Shopping_Trend_Dashboard.png)
 
-**_To interact with the dashboard, click [here](https://1drv.ms/x/s!AtgiI9WWruKXefm8fDYS22G5gNE)_**
+**_To interact with the dashboard, click [here](https://1drv.ms/x/s!AtgiI9WWruKXgQh8vcDRY-Pj9Ydw)_**
 
 ## Conclusion and Recommendation
 ### For products to promote:

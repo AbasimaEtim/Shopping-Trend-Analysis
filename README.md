@@ -68,7 +68,7 @@ Blouses are the best-selling product with the highest amount being sold at $10,4
 ----
 
 #### Top Preferred Colors
-Olive is the most popular color, followed by sliver and yellpw. There is a preference for teal and green colors
+Olive is the most popular color, followed by sliver and yellow. There is a preference for teal and green colors
 
 ![](Top_Colours.png)
 
@@ -112,7 +112,7 @@ According to the anlysis, customers purchase most frequently every 3 months.
 - Also, target accessories and footwear alongside clothing to encourage larger basket sizes.
 
 ### For  target Locations:
-- The Marketing should prioritize Montana, as it has the highest overall purchasing rate. California and Illinois should also be looked into expecially when it has to do with clothings 
+- The Marketing department should prioritize Montana, as it has the highest overall purchasing rate. California and Illinois should also be looked into expecially when it has to do with clothings 
 
 ### Age group to focus on:
 - People within the ages of 31-50 has the highest purchase volume, so campaigns should be tailored accordingly.
